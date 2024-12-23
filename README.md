@@ -9,7 +9,6 @@ A powerful PHP framework for building modern web applications.
 Features like routing, authentication, templating (using Blade), and database migrations make Laravel a go-to framework for many developers.
 What the Repository Might Be About
 
-If the project combines Bootstrap and Laravel, it could be:
 A Web Application: A Laravel-based backend managing data and logic, paired with a Bootstrap front-end for a polished user interface.
 
 A Template or Starter Project: A ready-made structure for building new web applications, integrating Bootstrap styling with Laravel's features.
