@@ -11,5 +11,7 @@ What the Repository Might Be About
 
 If the project combines Bootstrap and Laravel, it could be:
 A Web Application: A Laravel-based backend managing data and logic, paired with a Bootstrap front-end for a polished user interface.
+
 A Template or Starter Project: A ready-made structure for building new web applications, integrating Bootstrap styling with Laravel's features.
+
 A Learning Resource: It might showcase code examples, tutorials, or experiments with Bootstrap and Laravel integration.
