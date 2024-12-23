@@ -7,6 +7,7 @@ Provides pre-designed CSS and JavaScript components like navigation bars, button
 Laravel
 A powerful PHP framework for building modern web applications.
 Features like routing, authentication, templating (using Blade), and database migrations make Laravel a go-to framework for many developers.
+
 What the Repository Might Be About
 
 A Web Application: A Laravel-based backend managing data and logic, paired with a Bootstrap front-end for a polished user interface.
